@@ -1,5 +1,5 @@
 # Conky-interactive
-inspired by @xexpanderx - conky-drawer-interactive.
+inspired from @xexpanderx's conky configuration.
 
 A conky showing:
 
@@ -11,6 +11,8 @@ A conky showing:
 
 [Added stats to each]
 
+![alt text](https://github.com/1bsilver/Conky-interactive/blob/master/assets/Screenshot_20210719_231823.png "Normal")
+![alt text](https://github.com/1bsilver/Conky-interactive/blob/master/assets/Screenshot_20210719_231507.png "Hover")
 
 
 It changes colors with pywal.
